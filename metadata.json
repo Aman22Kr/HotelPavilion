@@ -1,0 +1,6 @@
+{
+  "name": "HotelPavilion - Modern Colonial Luxury Hotel Bandung",
+  "description": "Official website for HotelPavilion Bandung featuring luxury rooms, Keuken all-day dining, Vesper sky lounge, Kapoelaga meeting halls, and Tamarind spa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
